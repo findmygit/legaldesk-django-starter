@@ -55,7 +55,7 @@ covdefaults = "^2.3"
 django-coverage-plugin = "^3.1"
 pytest-randomly = "^4.0"
 pytest-timeout = "^2.3"
-django-test-migrations = "^1.5"
+django-test-migrations = "^1.6"
 hypothesis = "^6.152"
 schemathesis = "^4.15"
 
